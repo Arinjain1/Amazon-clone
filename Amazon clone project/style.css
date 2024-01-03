@@ -149,7 +149,13 @@ span{
     margin-right: 10px;
 }
 .box-c p{
+    display:flex;
+    justify-content: center;
     color: #007185;
+}
+.box-c h2{
+    display: flex;
+    justify-content: center;
 }
 footer{
     margin-top: 15px;
